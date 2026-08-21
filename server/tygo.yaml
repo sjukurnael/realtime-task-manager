@@ -5,7 +5,7 @@
 # payloads, event-type constants). Internal types (Store, Hub, wsClient)
 # never leak into the frontend.
 packages:
-  - path: "github.com/happyrobot/taskman/server"
+  - path: "github.com/sjukurnael/realtime-task-manager/server"
     output_path: "../client/src/generated/api.ts"
     include_files:
       - "models.go"

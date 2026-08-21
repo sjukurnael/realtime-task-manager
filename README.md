@@ -1,6 +1,6 @@
 # Task Manager
 
-[![CI](https://github.com/sjukurnael/happy-robot-takehome/actions/workflows/ci.yml/badge.svg)](https://github.com/sjukurnael/happy-robot-takehome/actions/workflows/ci.yml)
+[![CI](https://github.com/sjukurnael/realtime-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/sjukurnael/realtime-task-manager/actions/workflows/ci.yml)
 
 Collaborative task management system with near-real-time sync across clients.
 

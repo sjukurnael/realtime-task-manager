@@ -1,4 +1,4 @@
-module github.com/happyrobot/taskman/server
+module github.com/sjukurnael/realtime-task-manager/server
 
 go 1.25.0
 
